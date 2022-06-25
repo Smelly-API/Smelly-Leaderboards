@@ -1,5 +1,5 @@
 import { BlockLocation, Dimension, Entity, world } from "mojang-minecraft";
-import { SA } from "../../../index.js";
+import { SA } from "../../../../index.js";
 import { db_leaderboards } from "../index.js";
 
 export class Leaderboard {

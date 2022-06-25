@@ -1,4 +1,4 @@
-import { SA } from "../../../index.js";
+import { SA } from "../../../../index.js";
 import { db_leaderboards } from "../index.js";
 import { Leaderboard } from "./Leaderboard.js";
 
